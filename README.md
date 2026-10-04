@@ -1,6 +1,5 @@
 # Hello World From Belgium !
 
-![My Notion-style Face](./assets/notion-face-portrait.png)
 My name is Loïc De Deyn and I am currenly in **3rd year of my bachelor's degree** at Haute École Léonard de Vinci in Brussels.
 
 ### My academic journey
