@@ -18,6 +18,14 @@ My name is Loïc De Deyn and I am currenly in **3rd year of my bachelor's degree
 * Built a **modern landing page** for a tool aimed at indie game developers.
 * Used Next.js, i18n, and Radix UI Primitives.
 
+### Exalis Parfums - Website (2024)
+![Exalis_Screenshot](./assets/exalis.png)
+**[Visit Exalis](https://stately-squirrel-79deee.netlify.app/fr)**
+### Tasks
+* Built an **elegant** company website with a more up-to-date style compared to the original at the time.
+* I don't remember exactly the stack except that I used Bootstrap CSS.
+* Note: The project was canceled by the client due to a lack of available resources and time.
+
 ### Github Collab Repository - Chrome extension (2023)
 ![github-repo-tracker-gif](./assets/gh-repo-collab.gif)
 **[Visit on Chrome Web Store](https://chromewebstore.google.com/detail/idkhlnimdodjfdmecakpmeldhcmopnci?utm_source=item-share-cb)**
