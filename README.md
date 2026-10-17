@@ -9,6 +9,7 @@ My name is Loïc De Deyn and I am currenly in **3rd year of my bachelor's degree
 * Built an **e-sports tournament management app** in a 5-person Agile team.
 * Developed the **Java/Spring Boot backend** and designed the database.
 * Used **Conventional Commits** and Git branching practices.
+##### [Take a look at the repo](https://github.com/lodedeyn/conception-application-entreprise-projet-vinci) 
 
 ### Bridge23.xyz - Landing Page (2024)
 ![Bridge23 Screenshot](./assets/bridge23.png)
