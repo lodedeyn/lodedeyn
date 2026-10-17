@@ -5,7 +5,7 @@ My name is Loïc De Deyn and I am currenly in **3rd year of my bachelor's degree
 ## Some Projects
 ### Vinci Arena - An e-sports tournaments management app (2026)
 ![Vinci Arena Screenshot](./assets/vinci-arena.png)
-##### [Take a look at the repo](https://github.com/lodedeyn/conception-application-entreprise-projet-vinci) 
+#### [Take a look at the repo](https://github.com/lodedeyn/conception-application-entreprise-projet-vinci) 
 #### Tasks
 * Built an **e-sports tournament management app** in a 5-person Agile team.
 * Developed the **Java/Spring Boot backend** and designed the database.
