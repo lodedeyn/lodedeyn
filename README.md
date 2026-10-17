@@ -24,7 +24,7 @@ My name is Loïc De Deyn and I am currenly in **3rd year of my bachelor's degree
 ### Tasks
 * Built an **elegant** company website with a more up-to-date style compared to the original at the time.
 * I don't remember exactly the stack except that I used Bootstrap CSS.
-* Note: The project was canceled by the client due to a lack of available resources and time.
+* ***Note**: The project was canceled by the client due to a lack of available resources and time.*
 
 ### Github Collab Repository - Chrome extension (2023)
 ![github-repo-tracker-gif](./assets/gh-repo-collab.gif)
