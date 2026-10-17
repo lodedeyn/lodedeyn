@@ -23,7 +23,7 @@ My name is Loïc De Deyn and I am currenly in **3rd year of my bachelor's degree
 **[Visit Exalis](https://stately-squirrel-79deee.netlify.app/fr)**
 ### Tasks
 * Built an **elegant** company website with a more up-to-date style compared to the original at the time.
-* I don't remember exactly the stack except that I used Bootstrap CSS.
+* I don't remember exactly the stack except that I used Bootstrap CSS. (I don't have access to the repo)
 * ***Note**: The project was canceled by the client due to a lack of available resources and time.*
 
 ### Github Collab Repository - Chrome extension (2023)
